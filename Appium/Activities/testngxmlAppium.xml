@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ExampleSuite" >
+    <test name="SuiteTests" >
+        <classes>
+            <class name="appium.Activity1"/>
+            <class name="appium.Activity2"/>
+            <class name="appium.Activity3"/>
+            <class name="appium.Activity4"/>
+            <class name="appium.Activity5"/>
+            <class name="appium.Activity6"/>
+        </classes>
+    </test>
+</suite>
